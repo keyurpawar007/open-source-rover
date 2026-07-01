@@ -1,3 +1,3 @@
 # Electrical
 
-Please refer to the [PCB assembly](pcb/README.md) and [wiring](wiring/README.md) instructions.
+Please refer to the [PCB assembly](pcb/README.md) & [wiring](wiring/README.md) instructions.
